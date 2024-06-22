@@ -1,4 +1,6 @@
-# Volleyball App
+# Deutsch:
+
+## Volleyball App
 Einfaches Punktzählen am Handgelenk!
 
 Bist du es leid, den Punktestand während eines Volleyballspiels im Kopf behalten zu müssen? Mit der Volleyball App hast du die Lösung direkt an deinem Handgelenk! Die speziell für die Apple Watch entwickelte App ermöglicht es dir, den Punktestand schnell und einfach zu verfolgen, sodass du dich ganz auf das Spiel konzentrieren kannst.
@@ -13,7 +15,10 @@ Komplikationen:
 	•	Rundes Icon: Ein stilvolles Volleyball-Icon, das auf einen Blick erkennbar ist.
 	•	Rechteckige Anzeige: Zeigt den aktuellen Spielstand direkt auf deinem Zifferblatt, immer aktuell und sofort sichtbar.
 
- # Volleyball App
+
+# English:
+
+## Volleyball App
 
 Simple Score Tracking on Your Wrist!
 
