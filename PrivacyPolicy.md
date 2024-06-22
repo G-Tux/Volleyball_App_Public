@@ -11,6 +11,7 @@ Wir können unsere Datenschutzrichtlinie von Zeit zu Zeit aktualisieren. Wir emp
 ### Kontakt
 Wenn Sie Fragen zu dieser Datenschutzrichtlinie haben, kontaktieren Sie uns bitte unter c.bergauer@outlook.com
 
+
 # English:
 
 ## Privacy Policy for the Volleyball App
